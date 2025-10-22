@@ -6,7 +6,7 @@ This repository contains Bash scripts to:
 - Set up UFW firewall
 - Enable auditd for system monitoring
 
-## Usage
+# Usage
 
 ```bash
 sudo bash scripts/create_user.sh
@@ -15,7 +15,7 @@ sudo bash scripts/setup_ufw.sh
 sudo bash scripts/enable_auditd.sh
 
 ```
-### Example Commands
+# Example Commands
 ## User Creation
 
 <img width="684" height="413" alt="Screenshot 2025-10-21 101226" src="https://github.com/user-attachments/assets/2505c5e6-bd70-4c7a-a5d8-eb3a8ff330c1" />
